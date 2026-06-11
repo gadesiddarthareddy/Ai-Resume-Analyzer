@@ -1,4 +1,4 @@
-# AI Resume Analyzer
+# AI-Resume-Analyzer
 
 ## Description
 A web application built using Python and Streamlit that allows users to upload resumes and receive a basic resume analysis score.
