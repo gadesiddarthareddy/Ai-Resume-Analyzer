@@ -1,3 +1,5 @@
+# AI Resume Analyzer
+
 ## Description
 A web application built using Python and Streamlit that allows users to upload resumes and receive a basic resume analysis score.
 
@@ -14,9 +16,13 @@ A web application built using Python and Streamlit that allows users to upload r
 
 ## How to Run
 
-### 1. Install dependencies
-```bash
+1. Install dependencies
+
 pip install -r requirements.txt
 
-##Author
+2. Run the application
+
+streamlit run app.py
+
+## Author
 Gade Siddartha Reddy
